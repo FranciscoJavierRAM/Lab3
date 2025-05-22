@@ -1,6 +1,7 @@
 # software development method. 
 # First the program wil greet the player
 # Then the player is given a choice to choose rock, paper or scissors.
+# If the player doesn't follow the rules they'll be bet by a surprise.
 # Then the computer player randomly chooses their move, and then we determine who won and display a "You won!", "You lost!" or "Draw" message
 import random 
 print("Welcome to the Rock, Paper, Scissors game!")
